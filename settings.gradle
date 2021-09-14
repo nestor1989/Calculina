@@ -1,0 +1,2 @@
+rootProject.name = "Calculina"
+include ':app'
